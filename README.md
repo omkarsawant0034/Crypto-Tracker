@@ -7,5 +7,5 @@ Axios. <br>
 • Integrated RESTful APIs to fetch live market data from popular cryptocurrency exchanges. <br>
 • Designed a responsive UI with React to enhance user experience across devices. <br>
 
-# Website is live on https://crypto-tracker-psi-three.vercel.app/
-
+# Website is live on 
+https://crypto-tracker-psi-three.vercel.app/
