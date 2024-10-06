@@ -1,4 +1,4 @@
-#Tracker App — React
+# Tracker App — React
 • Crypto Tracker App — React Developed a cryptocurrency tracking app that displays real-time prices, market
 trends, and historical data for various cryptocurrencies.
 • Implemented state management with Redux for efficient data handling and optimized API requests using
